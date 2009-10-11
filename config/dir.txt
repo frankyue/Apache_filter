@@ -1,0 +1,2 @@
+#The directories start with '/' and end up with '/' too
+/

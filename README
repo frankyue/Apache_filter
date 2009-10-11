@@ -6,3 +6,8 @@ All of the words' binary in UTF-8,Unicode,GB2312 code are the same for the apach
 It is not finish!I just finish to filter the words which were written in the filter file include all encodes!
 Just get the webpage's encode and convert the file's words' encode to your webpages!Filter can work on!
 
+Attention:
+	Remember the compiler's ruler ,the source code was written in linux and compiled by the GCC!
+
+How to use the module?
+Just read the pdf file in config!
