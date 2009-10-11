@@ -1,3 +1,4 @@
 A module of Apache_filter 
 ------------------------------
-
+I write a module of apache to filter any words you want!
+All of the words' binary in UTF-8,Unicode,GB2312 code are the same for the apache server!By this idea I can filter all of the words which get through the apache server!
