@@ -12,7 +12,7 @@ Continue:
 	If you want to filter all encodes of words,just get the webpage's encode and convert the file's words' encode to your webpages!Filter can work on!
 
 Attention:
-	Remember the compiler's ruler ,the source code was written in linux and compiled by the GCC!
+	Remember the compiler's ruler ,the source code was written in linux and compiled sucessful by the GCC(Gcc has no need to declare the variable at first then to use it!).
 
 How to use the module?
 	Just read the pdf file in config!
